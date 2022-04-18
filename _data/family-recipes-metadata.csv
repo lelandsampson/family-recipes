@@ -1,4 +1,4 @@
-objectid,filename,title,creator,meal type,type,format,language,rights,rightsstatement
-coll0001,Apple Pie.pdf,Apple Pie,T. Sampson,Dessert,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
-coll0002,Aunt Betty's Chicken.pdf,Aunt Betty's Chicken,E. Wilson,Dinner,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
-coll0003,Ruth Lauer's 1-2-3-5 Cake.pdf,Ruth Lauer's 1-2-3-5 Cake,R. Lauer,Dessert,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+objectid,filename,title,creator,meal type,description,type,format,language,rights,rightsstatement
+coll0001,Apple Pie.pdf,Apple Pie,T. Sampson,Dessert,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0002,Aunt Betty's Chicken.pdf,Aunt Betty's Chicken,E. Wilson,Dinner,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0003,Ruth Lauer's 1-2-3-5 Cake.pdf,Ruth Lauer's 1-2-3-5 Cake,R. Lauer,Dessert,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
