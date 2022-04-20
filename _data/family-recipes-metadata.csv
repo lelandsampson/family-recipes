@@ -1,4 +1,22 @@
 objectid,filename,title,creator,meal type,description,type,format,language,rights,rightsstatement
 coll0001,apple_pie.pdf,Apple Pie,T. Sampson,Dessert,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
-coll0002,Aunt Betty's Chicken.pdf,Aunt Betty's Chicken,E. Wilson,Dinner,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
-coll0003,Ruth Lauer's 1-2-3-5 Cake.pdf,Ruth Lauer's 1-2-3-5 Cake,R. Lauer,Dessert,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0002,aunt_bettys_chicken.pdf,Aunt Betty's Chicken,E. Wilson,Dinner,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0003,belgian_waffles.pdf,,,,,,,,,
+coll0004,chocolate_chip_cookies.pdf,,,,,,,,,
+coll0005,corn_and_black_bean_salsa.pdf,,,,,,,,,
+coll0006,deli_sub.pdf,,,,,,,,,
+coll0007,lasagna.pdf,,,,,,,,,
+coll0008,lentil_soup.pdf,,,,,,,,,
+coll0009,meatloaf.pdf,,,,,,,,,
+coll0010,orange_hello_salad.pdf,,,,,,,,,
+coll0011,pork_bbq.jpg,,,,,,,,,
+coll0012,pork_bbq.pdf,,,,,,,,,
+coll0013,reuben_dip.jpg,,,,,,,,,
+coll0014,ruth_lauers_1-2-3-5_cake.jpg,,,,,,,,,
+coll0015,ruth_lauers_1-2-3-5_cake.pdf,Ruth Lauer's 1-2-3-5 Cake,R. Lauer,Dessert,,StillImage,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0016,saint_marys_slugger.pdf,,,,,,,,,
+coll0017,sausage_stuffing.pdf,,,,,,,,,
+coll0018,seven_layer_dip.pdf,,,,,,,,,
+coll0019,steak_au_poivre.jpg,,,,,,,,,
+coll0020,steak_au-poivre.pdf,,,,,,,,,
+coll0021,taco_seasoning.pdf,,,,,,,,,
