@@ -1,22 +1,22 @@
 objectid,filename,title,creator,mealtype,description,filetype,latitude,longitude,format,language,rights,rightsstatement
 coll0001,apple_pie.pdf,Apple Pie,T. Sampson,Dessert,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
 coll0002,aunt_bettys_chicken.pdf,Aunt Betty's Chicken,E. Wilson,Dinner,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
-coll0003,belgian_waffles.pdf,Belgian Waffles,,,,Text,,,application/pdf,,,
-coll0004,chocolate_chip_cookies.pdf,Chocolate Chip Cookies,,,,Text,,,application/pdf,,,
-coll0005,corn_and_black_bean_salsa.pdf,Corn and Black Bean Salsa,,,,Text,,,application/pdf,,,
-coll0006,deli_sub.pdf,Deli Subs,,,,Text,,,application/pdf,,,
-coll0007,lasagna.pdf,Lasagna,,,,Text,,,application/pdf,,,
-coll0008,lentil_soup.pdf,Lentil Soup,,,,Text,,,application/pdf,,,
-coll0009,meatloaf.pdf,Meatloaf,,,,Text,,,application/pdf,,,
-coll0010,orange_hello_salad.pdf,Orange Hello Salad,,,,Text,,,application/pdf,,,
-coll0011,pork_bbq.jpg,Pork BBQ,,,,StillImage,,,image/jpeg,,,
-coll0012,pork_bbq.pdf,Pork BBQ,,,,Text,,,application/pdf,,,
-coll0013,reuben_dip.pdf,Reuben Dip,,,,Text,,,application/pdf,,,
-coll0014,ruth_lauers_1-2-3-5_cake.jpg,Ruth Lauer's 1-2-3-5 Cake,,,,StillImage,,,image/jpeg,,,
+coll0003,belgian_waffles.pdf,Belgian Waffles,T. Sampson,Breakfast,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0004,chocolate_chip_cookies.pdf,Chocolate Chip Cookies,T. Sampson,Dessert,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0005,corn_and_black_bean_salsa.pdf,Corn and Black Bean Salsa,G. DeBlauw,Appetizer,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0006,deli_sub.pdf,Deli Subs,R. Lauer,Lunch,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0007,lasagna.pdf,Lasagna,C. Sampson,Dinner,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0008,lentil_soup.pdf,Lentil Soup,C. Sampson,Dinner,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0009,meatloaf.pdf,Meatloaf,C. Sampson,Dinner,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0010,orange_hello_salad.pdf,Orange Hello Salad,R. Lauer,Dessert,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0011,pork_bbq.jpg,Pork BBQ,C. Sampson,Dinner,,StillImage,,,image/jpeg,,In copyright - non-commercial use permitted,https://rightsstatements.org/page/InC-NC/1.0/?language=en
+coll0012,pork_bbq.pdf,Pork BBQ,C. Sampson,Dinner,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0013,reuben_dip.pdf,Reuben Dip,R. Lauer,Appetizer,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0014,ruth_lauers_1-2-3-5_cake.jpg,Ruth Lauer's 1-2-3-5 Cake,R. Lauer,Dessert,,StillImage,,,image/jpeg,,In copyright - non-commercial use permitted,https://rightsstatements.org/page/InC-NC/1.0/?language=en
 coll0015,ruth_lauers_1-2-3-5_cake.pdf,Ruth Lauer's 1-2-3-5 Cake,R. Lauer,Dessert,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
-coll0016,saint_marys_slugger.pdf,Saint Mary's Slugger,,,,Text,,,application/pdf,,,
-coll0017,sausage_stuffing.pdf,Sausage Stuffing,,,,Text,,,application/pdf,,,
-coll0018,seven_layer_dip.pdf,Seven Layer Dip,,,,Text,,,application/pdf,,,
-coll0019,steak_au_poivre.jpg,Steak au Poivre,,,,StillImage,,,image/jpeg,,,
-coll0020,steak_au-poivre.pdf,Steak au Poivre,,,,Text,,,application/pdf,,,
-coll0021,taco_seasoning.pdf,Taco Seasoning,,,,Text,,,application/pdf,,,
+coll0016,saint_marys_slugger.pdf,Saint Mary's Slugger,T. Sampson,Lunch,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0017,sausage_stuffing.pdf,Sausage Stuffing,C. Sampson,Dinner,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0018,seven_layer_dip.pdf,Seven Layer Dip,T. Sampson,Appetizer,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0019,steak_au_poivre.jpg,Steak au Poivre,C. Sampson,Dinner,,StillImage,,,image/jpeg,,In copyright - non-commercial use permitted,https://rightsstatements.org/page/InC-NC/1.0/?language=en
+coll0020,steak_au-poivre.pdf,Steak au Poivre,C. Sampson,Dinner,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
+coll0021,taco_seasoning.pdf,Taco Seasoning,T. Sampson,Seasoning,,Text,,,application/pdf,eng,Copyright not evaluated,https://rightsstatements.org/page/CNE/1.0/?language=en
