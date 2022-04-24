@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="coll0019" %}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="Collection Description;User Description" %}
 
@@ -26,7 +26,7 @@ The user group will be extended family. Of course, we all love food, but we have
 User needs have primarily influenced the metadata fields I have selected to include. For example, knowing which family a recipe comes from (e.g. mine or my wife’s) is not necessary to make the recipe, but it enriches the context of the object. Enriching the experience is, to me, one of the primary purposes of metadata.
 
 
-Credits: This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
@@ -35,5 +35,10 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
+<<<<<<< HEAD
 
 
+=======
+<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+{% include cb/about_the_about.md %} 
+>>>>>>> parent of 61c8ef7 (initial about page edit)
