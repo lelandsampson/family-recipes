@@ -19,6 +19,7 @@ credits: true
 ## About the Collection
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Collection Description:
 >>>>>>> parent of 2a3be62 (edits to about page)
 =======
@@ -47,6 +48,8 @@ User needs have primarily influenced the metadata fields I have selected to incl
 
 =======
 >>>>>>> parent of 61c8ef7 (initial about page edit)
+=======
+>>>>>>> parent of 61c8ef7 (initial about page edit)
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
@@ -58,8 +61,13 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+{% include cb/about_the_about.md %} 
+>>>>>>> parent of 61c8ef7 (initial about page edit)
 =======
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
