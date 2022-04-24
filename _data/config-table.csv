@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+mealtype,Meal Type
+creator,Creator
 description,Description
-subject,Subjects
+filetype,File Type
