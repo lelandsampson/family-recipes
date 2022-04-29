@@ -24,7 +24,7 @@ The user group will be extended family. Of course, we all love food, but we have
 User needs have primarily influenced the metadata fields I have selected to include. For example, knowing which family a recipe comes from (e.g. mine or my wife’s) is not necessary to make the recipe, but it enriches the context of the object. Enriching the experience is, to me, one of the primary purposes of metadata.
 
 ## Project Walkthrough
-{% include feature/pdf.html objectid="sampson_capstone_project_walkthrough" width="75" %}
+{% include feature/pdf.html objectid="project-walkthrough" width="75" %}
 
 ## Data Dictionary
 {% include feature/pdf.html objectid="data-dictionary" width="75" %}
